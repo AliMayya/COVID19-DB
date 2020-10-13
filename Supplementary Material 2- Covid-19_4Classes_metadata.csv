@@ -1,0 +1,121 @@
+Age;Sex;WBC;Dyspepsia ;Dyspnea ;Hypoxemic ;Fatigue;headache;Temperature;Fever;Fever_duration;Cough;wheezing ;Respiratory_ failure;Consolidations;diarrhea;anosmia;loss_of_appetite;nausea;Smoking;History_disease1;History_disease2;History_disease3;COVID19_Mingling;Thickens;Ground_glass;Ground_glass_Position;Opacity;pO2;PCR;lymphadenopathy ;Pharyngeal swab;Diagnosis
+80;M;;N;Y;N;N;N;;Y;;0;N;N;N;N;N;N;N;;N;N;N;N;N;Y;2;Y;;;N;N;COVID19
+62;M;;N;N;N;N;N;;Y;;2;N;N;N;N;N;N;N;;N;N;N;N;Y;;0;;97;0.75;N;N;COVID19
+57;M;High;N;Y;Y;N;N;;Y;;0;N;Y;Y;N;N;N;N;;N;N;N;Y;N;Y;2;;;;N;N;COVID19
+45;M;High;N;Y;Y;N;N;;Y;;2;N;Y;N;N;N;N;N;;N;N;N;Y;N;Y;2;Y;;;N;N;COVID19
+63;M;High;N;Y;Y;N;N;;Y;;2;N;Y;Y;N;N;N;N;;N;N;N;Y;N;Y;2;;;;N;N;COVID19
+32;F;High;N;Y;N;N;N;;Y;;2;N;Y;Y;N;N;N;N;;Autoimmune disease;;;N;N;Y;2;;;;N;N;COVID19
+43;M;High;N;Y;Y;N;N;;Y;;2;N;Y;Y;N;N;N;N;;N;N;N;Y;N;Y;2;;;;N;N;COVID19
+67;M;;N;N;N;N;N;;Y;13;2;N;N;N;N;N;N;N;;N;N;N;N;Y;Y;2;;61.3;12.17;N;Y;COVID19
+73;F;;N;N;N;N;N;;Y;;0;N;Y;N;N;N;N;N;;N;N;N;N;Y;Y;2;;;;N;N;COVID19
+60;M;;N;N;N;N;N;;Y;3;0;N;N;N;N;N;N;N;;N;N;N;Y;N;Y;2;;;;N;N;COVID19
+55;M;;N;N;N;N;N;;Y;;0;N;N;N;N;N;N;N;;N;N;N;Y;N;Y;2;;;;N;Y;COVID19
+58;M;High;N;Y;N;N;N;;N;;2;N;N;N;N;N;N;N;;N;N;N;N;N;Y;;;88;;N;N;COVID19
+61;F;;N;N;N;Y;N;37.8;Y;;2;N;N;N;N;N;N;N;Y;N;N;N;N;N;N;0;;98;;N;N;COVID19
+50;M;;N;N;N;Y;N;38;N;;2;N;N;N;N;N;N;N;;N;N;N;N;N;;;;93;;N;R;COVID19
+46;F;;N;N;N;N;N;;N;;0;N;N;Y;N;N;N;N;;N;N;N;N;Y;N;0;;98;;N;R;Pneumonia
+57;M;;N;N;N;N;N;;Y;7;2;N;Y;N;N;N;N;N;;N;N;N;Y;N;Y;2;;;;N;Y;COVID19
+80;M;;N;Y;N;N;N;;Y;;2;N;N;N;N;N;N;N;;Hypertensive;Cardiac;;N;N;Y;2;;;;N;N;COVID19
+57;M;;N;N;N;N;N;;Y;8;2;N;N;N;N;N;N;N;;Colon noeplasia;;;Y;N;Y;2;;;;N;Y;COVID19
+57;M;High;N;N;N;Y;N;39;Y;7;2;N;N;N;Y;N;N;Y;;N;N;N;N;N;Y;2;;;23;N;Y;COVID19
+75;M;;N;N;N;Y;N;;Y;3;2;N;N;N;N;N;N;N;;N;N;N;N;Y;Y;2;;;15;N;Y;COVID19
+71;M;;N;N;N;N;N;37.8;Y;;2;N;N;N;N;N;N;N;;;Cardiac;;N;Y;Y;2;;97;;N;Y;COVID19
+69;M;;N;N;N;N;N;36.5;Y;7;0;N;N;Y;N;N;N;N;;N;N;N;N;N;Y;2;;96;;N;Y;COVID19
+27;M;;N;N;N;N;N;;N;;0;N;N;Y;N;N;N;N;;N;N;N;N;Y;Y;2;;92;;N;Y;COVID19
+78;F;;N;Y;N;N;N;;N;;0;N;Y;Y;N;N;N;N;;N;N;N;N;Y;Y;2;;50;;N;Y;COVID19
+71;M;;N;Y;N;N;N;39;Y;;0;N;N;Y;N;N;N;N;;Hypertensive;;Chronic obstructive pulmonary disease;N;Y;Y;2;;97;;N;Y;COVID19
+55;M;;N;Y;N;N;N;;N;;0;N;N;N;N;N;N;N;;Asthma;;Diabetes;Y;N;;;;70;;N;Y;COVID19
+58;F;;N;N;N;N;N;;Y;7;0;Y;N;N;N;N;N;N;;Obesity;Cardiac;Chronic obstructive pulmonary disease;N;Y;Y;2;;;;N;Y;COVID19
+48;F;Low;N;N;N;N;N;;Y;11;2;N;N;N;N;N;N;N;;N;N;N;Y;N;Y;2;;;;N;N;COVID19
+68;M;High;N;Y;N;N;N;;N;;0;N;Y;Y;N;N;N;N;;Hypertensive;Dyslipidemia;Chronic lymphatic leukemia;;Y;Y;2;;;100;N;Y;COVID19
+64;M;;N;Y;N;N;N;;Y;3;2;N;N;N;N;N;N;N;;Hypertensive;;Diabetes;;Y;Y;2;;;13.44;N;Y;COVID19
+63;M;;N;Y;N;Y;N;;Y;5;0;N;N;Y;N;N;N;N;;N;N;N;;Y;Y;2;;;16.27;N;Y;COVID19
+43;M;;N;N;N;Y;N;;Y;7;0;N;N;N;N;N;N;N;;N;N;N;;Y;Y;2;;;70;N;Y;COVID19
+55;M;;N;N;N;N;N;39;N;;2;N;Y;N;N;N;N;N;;N;N;N;Y;Y;Y;2;;;;N;N;COVID19
+47;M;;N;N;N;Y;Y;39;Y;;2;N;N;N;N;N;Y;N;;;Remote history changes;;;Y;Y;;Y;95;;N;Y;COVID19
+63;M;Low;N;Y;N;N;N;;N;;0;N;N;N;N;N;N;N;;N;N;N;;N;Y;2;;;;N;Y;COVID19
+76;M;;N;N;N;N;N;;N;;0;N;Y;N;N;N;N;Y;;N;N;N;Y;N;Y;2;;;;N;Y;COVID19
+86;M;;Y;N;N;N;N;;Y;;2;N;Y;N;N;N;N;N;;N;N;N;Y;Y;Y;2;;;;N;Y;COVID19
+72;F;Low;Y;N;N;N;N;36.9;Y;6;2;N;N;Y;Y;N;N;N;;;;Diabetes;Y;N;Y;2;Y;92;141;N;N;COVID19
+62;F;;N;N;N;N;N;;Y;;2;N;N;Y;N;N;Y;Y;;N;N;N;;N;Y;2;;96.2;;N;Y;COVID19
+53;M;Low;N;Y;N;N;N;38.5;N;;0;N;N;Y;N;N;N;N;;Hypertensive;Cardiac;;;N;Y;2;;;;Y;Y;COVID19
+73;M;;N;Y;N;N;N;;Y;10;0;N;N;Y;N;N;N;N;;N;N;N;;N;Y;2;;;;N;N;COVID19
+87;M;;N;N;N;N;N;;N;;2;N;Y;Y;N;N;N;N;;;Cardiac;;;Y;Y;2;;95;160;N;Y;COVID19
+82;F;;N;Y;N;N;N;;Y;7;2;N;N;Y;N;N;N;N;;Hypertensive;;;;N;Y;1;;;106.93;N;N;COVID19
+65;M;;N;N;N;N;N;37.5;Y;20;2;N;N;Y;N;N;N;N;;N;N;N;;Y;Y;2;;84;70.99;N;N;COVID19
+79;M;;N;Y;N;N;N;;Y;4;2;N;N;N;N;N;N;N;;;Cardiac;Diabetes;;N;Y;2;;;;N;N;COVID19
+61;M;;N;Y;N;Y;N;38.5;Y;9;2;N;N;Y;N;N;N;N;;N;N;N;Y;N;Y;2;;98;;N;N;COVID19
+61;M;High;N;Y;N;N;N;;N;;0;N;N;Y;N;N;N;N;N;Hypertensive;;Diabetes;N;N;Y;2;;82;301;N;N;COVID19
+42;M;Low;N;Y;N;N;N;39;Y;;0;N;N;Y;N;N;Y;N;;N;N;N;Y;N;;;;;;N;Y;COVID19
+84;M;;N;N;N;N;N;;Y;14;0;N;Y;N;N;N;N;N;;N;N;N;;N;Y;2;;2;;Y;N;COVID19
+60;M;Low;N;N;N;N;N;39;N;;0;N;N;N;Y;N;N;N;;;Remote history changes;;;N;Y;2;;;95;N;N;COVID19
+55;M;;N;Y;N;N;N;;Y;;2;N;N;N;N;N;N;N;;Obesity;Pathological history positive for SLE in steroid therapy;;Y;Y;Y;2;;50;100;N;N;COVID19
+57;M;;N;Y;N;N;N;39;N;;0;N;N;N;N;N;N;N;Y;;Remote history changes;Chronic obstructive pulmonary disease;;Y;Y;2;;50;100;N;N;COVID19
+78;M;;N;N;N;N;N;;Y;7;2;N;Y;N;N;N;N;N;;N;N;N;;Y;Y;2;Y;84;;N;N;COVID19
+57;M;;N;Y;N;N;N;;N;;2;N;N;N;N;N;N;N;;N;N;N;Y;Y;Y;2;;;;N;Y;COVID19
+65;M;;N;Y;N;N;N;;N;;2;N;N;N;N;N;N;N;N;Obesity;Bipolar syndrome;Bariatric surgery;;N;Y;2;;69;;N;Y;COVID19
+52;F;;N;Y;N;N;N;;Y;4;0;N;N;N;N;N;N;N;;Asthma;;;;N;;;;;10.12;N;Y;COVID19
+40;M;;N;Y;N;N;N;40;Y;10;0;N;N;N;N;N;N;N;Y;;Previous pneumonia;;;Y;Y;2;;;87.16;N;N;COVID19
+60;M;;N;Y;N;N;N;39;N;;0;N;N;N;N;N;N;N;Y;Hypertensive;Dyslipidemia;;;Y;Y;2;;;;N;N;COVID19
+30;M;;N;Y;N;N;N;;Y;5;2;N;N;N;N;N;N;N;;N;N;N;N;Y;N;0;;;;N;N;Pneumonia
+60;M;;N;Y;N;N;N;;Y;;0;N;N;N;N;N;N;N;;N;N;N;N;Y;N;0;;;;N;N;Pneumonia
+70;M;;N;N;N;N;N;37.8;Y;10;0;N;N;N;N;N;N;N;;Hypertensive;Chronic thyroiditis ;;Y;N;Y;2;;97;;N;Y;COVID19
+56;M;;N;N;N;Y;N;;Y;7;0;N;N;N;N;Y;N;N;;N;N;N;Y;N;Y;2;;97;;N;Y;COVID19
+49;M;;N;Y;N;N;N;39;Y;4;0;N;N;N;N;N;N;N;;N;N;N;;N;Y;2;;94;;N;Y;COVID19
+57;M;;N;Y;N;N;N;39;Y;3;2;N;N;Y;N;N;N;N;;N;N;N;N;Y;Y;2;;90;;N;Y;COVID19
+74;M;;Y;N;N;N;N;;N;;0;N;N;Y;N;N;N;Y;;Asthma ;Cardiac;NAO therapy;Y;Y;Y;2;;94;;N;Y;COVID19
+71;F;;N;Y;N;N;N;39;Y;3;0;N;N;N;N;N;N;N;;;Respiratory failure;Chronic obstructive pulmonary disease;Y;N;Y;2;;93;;N;Y;COVID19
+83;M;;N;N;N;N;N;38.9;Y;3;2;N;N;Y;N;N;N;N;Y;Hypertensive;Diabetes;;N;Y;Y;2;Y;92;100;N;Y;COVID19
+77;M;Low;Y;N;N;N;N;39;Y;;0;N;N;Y;Y;N;N;Y;Y;Hypertensive;Horton arteritis;rheumatic olymyalgia;Y;N;;;;96;100;N;Y;COVID19
+58;F;;N;N;N;N;N;36.8;N;;0;N;N;N;N;N;N;N;;Mastectomy with lymphadenectomy;;;Y;N;Y;2;;99;;Y;Y;COVID19
+45;M;;N;N;N;N;N;36.5;Y;14;2;N;N;N;N;N;N;N;;N;N;N;N;Y;N;0;N;;;N;N;Pneumonia
+8;F;;N;N;N;N;N;37.8;Y;;0;N;Y;N;N;N;N;N;;N;N;N;N;N;Y;2;N;;;N;N;H1N1
+15;F;;N;N;N;N;N;37.8;Y;;0;N;Y;Y;N;N;N;N;;N;N;N;N;N;N;0;N;;;N;N;H1N1
+10;M;;N;N;N;N;N;37.8;Y;;0;N;Y;Y;N;N;N;N;;N;N;N;N;N;N;0;N;;;N;N;H1N1
+40;M;;N;N;N;N;N;;N;;0;N;Y;Y;N;N;N;N;;N;N;N;N;N;Y;2;N;60;;N;N;H1N1
+29;M;;N;N;N;Y;Y;;Y;5;1;N;N;N;N;N;N;N;;N;N;N;N;N;Y;1;N;;;N;N;Pneumonia
+28;M;;N;Y;N;N;N;;N;;0;N;N;Y;N;N;N;N;;obesity ;sleep apnea;;N;N;N;0;N;82;;N;N;H1N1
+39;M;;N;N;N;N;N;;N;;0;N;Y;Y;N;N;N;N;;N;N;N;N;N;Y;2;N;80;;N;N;H1N1
+53;M;;N;N;N;N;N;;N;;0;N;Y;Y;N;N;N;N;;N;N;N;N;N;Y;2;N;90;;N;N;H1N1
+25;M;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+35;F;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+40;M;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+32;F;Normal;N;N;N;N;N;;N;;2;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+35;F;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+30;M;Normal;N;N;N;N;N;;N;;2;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+20;M;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+19;M;;N;N;N;N;N;;Y;;1;N;N;Y;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Pneumonia
+30;F;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+20;F;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;Asthma;;;N;N;N;0;N;;;N;N;Normal
+40;M;;N;Y;N;N;N;;Y;;1;N;N;N;N;N;N;N;N;AIDS;;;N;N;Y;2;N;;;N;N;Pneumonia
+70;M;;N;Y;N;N;N;;Y;;1;N;N;N;N;N;N;N;Y;N;N;N;N;N;N;0;N;;;N;N;Pneumonia
+30;F;;N;Y;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+65;M;Normal;N;Y;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+55;F;Normal;N;Y;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+35;F;Normal;N;Y;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+30;F;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+60;M;Normal;N;N;N;Y;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+65;M;Normal;N;N;N;Y;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+50;F;Normal;N;N;N;Y;N;;N;;0;N;N;N;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Normal
+60;M;Normal;N;N;N;N;N;;N;;0;N;N;N;N;N;N;N;Y;N;N;N;N;N;N;0;N;;;N;N;Normal
+50;M;Normal;N;N;N;Y;N;;N;;0;N;N;N;N;N;N;N;N;;Cardiac;;N;N;N;0;N;;;N;N;Normal
+65;F;;N;Y;N;N;N;;N;;0;N;Y;Y;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;H1N1
+50;F;;N;Y;N;N;N;;N;;0;N;Y;Y;N;N;N;N;N;N;N;N;N;N;Y;2;N;;;N;N;H1N1
+60;F;;N;Y;N;N;N;;N;;0;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;2;N;;;N;N;H1N1
+30;F;;N;Y;N;N;N;;Y;;0;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;1;Y;;;N;N;Pneumonia
+25;F;;N;Y;N;N;N;;Y;;0;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;2;Y;;;N;N;Pneumonia
+25;F;;N;Y;N;N;N;;Y;;0;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;2;Y;;;N;N;Pneumonia
+40;M;;N;Y;N;N;N;;N;;1;N;N;Y;N;N;N;N;N;AIDS;;;N;N;Y;2;Y;;;N;N;Pneumonia
+50;M;;N;Y;N;N;N;;N;;1;N;N;N;N;N;N;N;N;colon adenocarcinoma;;;N;N;N;0;Y;;;N;N;Pneumonia
+65;M;;N;N;N;N;N;;Y;;1;N;N;Y;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Pneumonia
+60;M;;N;N;N;N;N;;N;;1;N;N;Y;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Pneumonia
+70;M;;N;Y;N;N;N;;N;;1;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;2;Y;;;N;N;Pneumonia
+50;M;;N;N;N;N;N;;N;;1;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;1;Y;;;N;N;Pneumonia
+50;M;;N;N;N;Y;N;;N;;2;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;1;Y;;;N;N;Pneumonia
+40;M;;N;Y;N;N;N;;Y;;1;N;N;Y;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Pneumonia
+60;M;;N;Y;N;N;N;;Y;;0;N;N;Y;N;N;N;N;N;N;N;N;N;N;Y;2;Y;;;N;N;Pneumonia
+50;M;;N;Y;N;N;N;;Y;;1;N;N;Y;N;N;N;N;N;Pneumonia;;;N;N;Y;2;Y;;;N;N;Pneumonia
+35;M;;N;Y;N;N;N;;N;;0;N;N;Y;N;N;N;N;Y;N;N;N;N;N;Y;2;Y;;;N;N;Pneumonia
+75;M;;N;Y;N;N;N;;N;;0;N;N;Y;N;N;N;N;Y;N;N;N;N;N;Y;2;Y;;;N;N;Pneumonia
+61;M;;N;Y;N;N;N;;Y;;1;N;N;Y;N;N;N;N;N;N;N;N;N;Y;Y;1;N;;;N;N;Pneumonia
+60;M;;N;Y;N;N;N;;Y;;1;N;N;Y;N;N;N;N;N;N;N;N;N;N;N;0;N;;;N;N;Pneumonia
